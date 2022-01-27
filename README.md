@@ -4,7 +4,7 @@ Un repositorio de contratos sujetos a escrutinio por la comunidad.
 
 Si encuentras un bug o vulnerabilidad repórtalo via discord, canal de youtube o github issue y recibe una recompenza.
 
-Recompenza actual por encontrar bug o vulnerabilidad en cualquier contrato subido aquí: `100 usdt`
+Recompenza actual por encontrar bug o vulnerabilidad en cualquier contrato subido aquí: `100 DAI`
 
 Me ayudas a amentar esta recompensa? Envía una donación aquí:
 
